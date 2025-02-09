@@ -1,0 +1,15 @@
+Symbol,Ticker,Sector,Current Price,Quantity,Entry Price,Profit/Loss,Invested Amount,Current Amount
+3M COMPANY ,MMM,Consumer Goods Conglomerates, 151.64 ,10, 109.00 , 42.64 , 1 090.00 , 1 132.64 
+Altria Group Inc. ,MO,Food & Tobacco, 52.62 ,10, 45.00 , 7.62 , 450.00 , 457.62 
+DATADOG INC. ,DDOG,Software & IT Services, 145.83 ,5, 85.00 , 60.83 , 425.00 , 485.83 
+DROPBOX INC. ,DBX,Software & IT Services, 32.38 ,50, 20.20 , 12.18 , 1 010.00 , 1 022.18 
+PAYPAL HOLDINGS INC. ,PYPL,Commercial Services, 77.73 ,5, 72.70 , 5.02 , 363.50 , 368.53 
+QUALCOMM INCORPORATED ,QCOM,Semiconductors, 173.04 ,5, 120.00 , 53.04 , 600.00 , 653.04 
+SHAKE SHACK INC. ,SHAK,Hotels & Entertainment Services, 119.25 ,15, 39.58 , 79.67 , 593.70 , 673.37 
+SHOPIFY INC. ,SHOP,Software & IT Services, 119.20 ,10, 31.69 , 87.51 , 316.90 , 404.41 
+SNAP INC. ,SNAP,Software & IT Services, 11.60 ,40, 12.49 , -0.89 , 499.60 , 498.71 
+STAG INDUSTRIAL INC. ,STAG,Residential & Commercial REIT, 34.36 ,10, 30.34 , 4.02 , 303.40 , 307.42 
+STARBUCKS CORPORATION ,SBUX,Hotels & Entertainment Services, 110.60 ,60, 71.76 , 38.84 , 4 305.60 , 4 344.44 
+TAKE-TWO INTERACTIVE SOFTWARE,TTWO,Software & IT Services, 178.86 ,10, 125.10 , 53.76 , 1 251.00 , 1 304.76 
+UNITED PARCEL SERVICE,UPS,Freight & Logistics Services, 111.77 ,5, 171.05 , -59.28 , 855.25 , 795.97 
+PINTEREST, PINS,Software & IT Services, 33.39 ,130, 19.52 , 13.87 , 2 537.60 , 2 551.47 
